@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyHeroku</string>
+    <string name="heroku_title">Heroku Application Interface</string>
+    <string name="heroku_button">Connecting to server though Ratpack
+                            to Heroku</string>
+</resources>
